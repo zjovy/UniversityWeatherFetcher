@@ -51,7 +51,3 @@ We welcome contributions to the University Weather Fetcher project. If you have 
 ## License
 
 University Weather Fetcher is open-source and licensed under the MIT License. You are free to use, modify, and distribute the code according to the terms of this license.
-
----
-
-Feel free to customize the README with additional sections or details as needed.
