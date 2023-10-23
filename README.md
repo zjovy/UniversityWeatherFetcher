@@ -8,7 +8,6 @@ University Weather Fetcher is a project that efficiently retrieves location coor
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -38,15 +37,6 @@ University Weather Fetcher can be used to retrieve data related to universities,
 
 1. Provide the name of the university you want to fetch data for.
 2. Utilize the program to retrieve university names, location coordinates, and weather data.
-
-## Contributing
-
-We welcome contributions to the University Weather Fetcher project. If you have ideas for improving the program, extending its functionality, or enhancing the API interactions, consider contributing. Here's how to get involved:
-
-1. Fork this repository.
-2. Create a new branch for your feature or enhancement.
-3. Make your changes and commit them.
-4. Submit a pull request, and we'll review your contribution.
 
 ## License
 
